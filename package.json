@@ -1,8 +1,8 @@
 {
-  "name": "vue-music",
+  "name": "vue-demo",
   "version": "1.0.0",
-  "description": "音乐播放器",
-  "author": "songhao",
+  "description": "demo",
+  "author": "ysh",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
